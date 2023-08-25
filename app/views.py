@@ -5,3 +5,4 @@ from django.shortcuts import render
 
 def fgeggr(self):
     v = 'fffgrgrff'
+    x = 'grgrg'
